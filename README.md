@@ -1,0 +1,1 @@
+# find-antitype-in-quadratic-equation
