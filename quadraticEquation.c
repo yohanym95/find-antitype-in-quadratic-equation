@@ -10,6 +10,7 @@
  	printf("give your value for c : ");
  	scanf("%f", &c);
  	
+	 
  	y= a*x*x+b*x+c;
  	v= b*b-4*a*c;
  	m=sqrt(v);
